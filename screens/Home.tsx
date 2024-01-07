@@ -141,7 +141,7 @@ function TransactionSummary({
   // Formats monetary values to ensure consistent display of currency amounts.
   const formatMoney = (value: number) => {
     const absValue = Math.abs(value).toFixed(2);
-    return `${value < 0 ? '-' : ''}${absValue}`;
+    return `£${value < 0 ? '-' : ''}${absValue}`;
   };
 
   return (
