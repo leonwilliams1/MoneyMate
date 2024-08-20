@@ -1,1 +1,1 @@
-Finance Tracking App
+Finance Tracking App MoneyMate

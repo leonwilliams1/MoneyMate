@@ -25,7 +25,7 @@ export const categoryEmojies: { [key: string]: string } = {
   Bills: "💸",
   Utilities: "💡",
   Misc: "💡",
-  "Eating out" : "🍽️",
+  "Eating Out" : "🍽️",
   Fuel: "⛽",
   "Debt Repayment": "🧾",
   Gifts : "🎁",
